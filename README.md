@@ -1,5 +1,3 @@
-## This is my first try at data vis
-
 ### Getting started:
 
 #### Get the Data:
